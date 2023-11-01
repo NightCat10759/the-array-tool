@@ -30,3 +30,9 @@ retainAll(arr,arr2):  [ 1, 2 ]
 ```
 rightOutterJoin(arr,arr2):  [ 4 ]
 ```
+
+#### insertSingleQuote
+
+```
+insertSingleQuote('i\'m Str'):  'i''m Str'
+```
