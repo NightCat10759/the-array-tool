@@ -1,16 +1,32 @@
-- the-array-tool
+# the-array-tool
 
-* Sample Input
+- Sample Input
   arr: [ 1, 2, 3 ]
   arr2: [ 1, 2, 4 ]
 
-* Function
+### Sample Input
 
-\*\* removeAll
-removeAll(arr,arr2): [ 3 ]
+```
+arr:  [ 1, 2, 3 ]
+arr2:  [ 1, 2, 4 ]
+```
 
-\*\* retainAll
-retainAll(arr,arr2): [ 1, 2 ]
+### Function
 
-\*\* rightOutterJoin
-rightOutterJoin(arr,arr2): [ 4 ]
+#### removeAll
+
+```
+removeAll(arr,arr2):  [ 3 ]
+```
+
+#### retainAll
+
+```
+retainAll(arr,arr2):  [ 1, 2 ]
+```
+
+#### rightOutterJoin
+
+```
+rightOutterJoin(arr,arr2):  [ 4 ]
+```
