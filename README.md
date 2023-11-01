@@ -1,4 +1,4 @@
-# the-array-tool
+# the-js-tool
 
 - Sample Input
   arr: [ 1, 2, 3 ]
